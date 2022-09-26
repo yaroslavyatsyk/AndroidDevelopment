@@ -3,7 +3,7 @@
     <string name="hours">Enter amount of hours here</string>
     <string name="wage">Enter the wage per hour</string>
     <string name="empty"></string>
-    <string name="info">Total earnings</string>
+    <string name="info">Total income</string>
     <string name="taxinfo">Taxes (18%)</string>
     <string name="calc">Calculate</string>
     <string name="author">Yaroslav Yatsyk</string>
